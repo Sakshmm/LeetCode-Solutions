@@ -46,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
