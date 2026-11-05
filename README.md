@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
