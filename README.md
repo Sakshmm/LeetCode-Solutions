@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0087-scramble-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0283-move-zeroes) |
