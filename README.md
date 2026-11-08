@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
