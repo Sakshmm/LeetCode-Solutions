@@ -68,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sakshmm/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
